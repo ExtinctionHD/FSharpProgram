@@ -1,0 +1,11 @@
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharpProgram.exe.config
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharpProgram.XML
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharpProgram.exe
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharpProgram.pdb
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharp.Core.dll
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\System.ValueTuple.dll
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\FSharp.Core.xml
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\obj\Debug\FSharpProgram.fsproj.CoreCompileInputs.cache
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\obj\Debug\FSharpProgram.exe
+D:\Education\БГУИР МСиСвИнфТ\FSharpProgram\FSharpProgram\obj\Debug\FSharpProgram.pdb
